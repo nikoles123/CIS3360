@@ -142,7 +142,7 @@ public class pa01{
 }
 
 /*=============================================================================
-| I Nikole Solano ni009009 affirm that this program is
+| I Nikole Solano affirm that this program is
 | entirely my own work and that I have neither developed my code together with
 | any another person, nor copied any code from any other person, nor permitted
 | my code to be copied or otherwise used by any other person, nor have I
